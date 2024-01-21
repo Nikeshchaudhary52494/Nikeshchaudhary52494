@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/nikeshchaudhary52494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikeshchaudhary52494" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikeshchaudhary52494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikeshchaudhary52494" height="30" width="40" /></a>
 </p>
-<br><br>
+<br>
 
 # 💻 Tech Stack:
 <table>
@@ -81,11 +81,10 @@
     </tr>
   </tbody>
 </table>
-<br><br>
+<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikeshchaudhary52494&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikeshchaudhary52494&theme=prussian&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=nikeshchaudhary52494&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=nikeshchaudhary52494&theme=prussian&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshchaudhary52494&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
