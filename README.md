@@ -1,14 +1,26 @@
 
-<h1>Hi 👋, I'm Nikesh Chaudhary</h1>
-<h3>A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+## Hi 👋, I'm Nikesh Chaudhary  
 
-- 📫 How to reach me **nikeshchaudhary52494@gmail.com**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="150"/>
+
+### A passionate full stack web developer from India  
+
+<div align="left">
+  
+- 🌱 I’m currently learning **Next.js**  
+- 📫 How to reach me **nikeshchaudhary52494@gmail.com**  
+
+</div>
+
+
+
+  
+  ![packman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 # 🔗 Connect with me:
 <p align="left">
-<a href="https://twitter.com/nikesh52494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikesh52494" height="30" width="40" /></a>
+<a href="https://x.com/nikesh_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikesh52494" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikeshchaudhary52494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikeshchaudhary52494" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikeshchaudhary52494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikeshchaudhary52494" height="30" width="40" /></a>
 </p>
@@ -83,11 +95,6 @@
 </table>
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikeshchaudhary52494&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=nikeshchaudhary52494&theme=prussian&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshchaudhary52494&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=nikeshchaudhary52494&icon=0&color=0)](https://visitcount.itsvg.in)
+<img height=500 src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
